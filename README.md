@@ -14,15 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `About App`\
+### `About App`
 
 P.O.V:React hooks usage && React logic\
 Used Language: JavaScript\
 Used main library : React\
 Used library : Bootstrap\
  
-### `Info about run project`:\
+### `Info about run project`:
 Open terminal (git bash ,powershell or any shell)\
 npm install (npm should be installed)\
-npm run start\
+npm run start
 
