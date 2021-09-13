@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 P.O.V:React hooks usage && React logic\
 Used Language: JavaScript\
 Used main library : React\
-Used library : Bootstrap\
+Used library : Bootstrap
  
 ### `Info about run project`:
 Open terminal (git bash ,powershell or any shell)\
